@@ -1,10 +1,12 @@
-# Tricount API to Excel
+# Tricount API to Excel/CSV
 
 This script allows you to fetch all transactions and attachments from a shared Tricount and save them in a structured and user-friendly format.
 
 ## Features
 - Retrieve transactions and attachments from a shared Tricount.
 - Save transactions to an Excel file.
+- Save transactions to a CSV file.
+- Export transaction to Sesterce compatible CSV.
 - Download all attachments and organize them in a folder.
 
 ## Installation
@@ -14,7 +16,12 @@ This script allows you to fetch all transactions and attachments from a shared T
    git clone https://github.com/MrNachoX/tricount-downloader.git
    cd tricount-downloader
    ```
-2. Install the dependencies:
+2. Create and activate virtual environment named venv (optional):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
+3. Install the dependencies:
    ```bash
    pip install -r requirements.txt
    ```
@@ -28,6 +35,10 @@ This script allows you to fetch all transactions and attachments from a shared T
 
 ### Step 2: Run the Script
 1. Replace the placeholder `tricount_key` in the script with your actual Tricount key.
+
+   (Optional) To export to Sesterce, uncomment (remove #) the line `` handler.write_to_sesterce_csv(...) ``
+
+   (Optional) To download attachments, uncomment (remove #) the line `` handler.download_attachments(...) ``
 2. Execute the script:
    ```bash
    python main.py
@@ -35,4 +46,4 @@ This script allows you to fetch all transactions and attachments from a shared T
 
 ### Step 3: Outputs
 1. **Attachments Folder**: Attachments will be saved in a folder named `Attachments {Tricount Title}`.
-2. **Excel File**: Transactions will be saved in a file named `Transactions {Tricount Title}.xlsx`.
+2. **CSV File**: Transactions will be saved in a file named `Transactions {Tricount Title}.csv`.
