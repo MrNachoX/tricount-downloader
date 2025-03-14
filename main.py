@@ -55,8 +55,6 @@ class TricountHandler:
         memberships = [
             {
                 "Name": m["RegistryMembershipNonUser"]["alias"]["display_name"],
-                "Balance": m["RegistryMembershipNonUser"]["balance"]["value"],
-                "Currency": m["RegistryMembershipNonUser"]["balance"]["currency"]
             }
             for m in registry["memberships"]
         ]
