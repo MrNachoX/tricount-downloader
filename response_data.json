@@ -36,45 +36,7 @@
                 "card_ids": [],
                 "card_labels": []
               },
-              "auto_add_card_transaction": "NONE",
-              "balance": {
-                "currency": "USD",
-                "value": "45.75"
-              },
-              "status_settlement": "PENDING",
-              "total_amount_spent": {
-                "currency": "USD",
-                "value": "0.00"
-              },
-              "registry_id": 67756078,
-              "registry_title": "City trip",
-              "registry_description": null,
-              "invitor": {
-                "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                "display_name": "Tricount participant",
-                "country": "000",
-                "avatar": {
-                  "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                  "image": [
-                    {
-                      "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                      "height": 640,
-                      "width": 640,
-                      "content_type": "image/png",
-                      "urls": [
-                        {
-                          "type": "ORIGINAL",
-                          "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                        }
-                      ]
-                    }
-                  ],
-                  "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                  "style": "NONE"
-                },
-                "public_nick_name": "Tricount participant",
-                "type": "PERSON"
-              }
+              "auto_add_card_transaction": "NONE"
             }
           },
           {
@@ -99,45 +61,7 @@
                 "card_ids": [],
                 "card_labels": []
               },
-              "auto_add_card_transaction": "NONE",
-              "balance": {
-                "currency": "USD",
-                "value": "-31.25"
-              },
-              "status_settlement": "PENDING",
-              "total_amount_spent": {
-                "currency": "USD",
-                "value": "0.00"
-              },
-              "registry_id": 67756078,
-              "registry_title": "City trip",
-              "registry_description": null,
-              "invitor": {
-                "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                "display_name": "Tricount participant",
-                "country": "000",
-                "avatar": {
-                  "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                  "image": [
-                    {
-                      "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                      "height": 640,
-                      "width": 640,
-                      "content_type": "image/png",
-                      "urls": [
-                        {
-                          "type": "ORIGINAL",
-                          "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                        }
-                      ]
-                    }
-                  ],
-                  "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                  "style": "NONE"
-                },
-                "public_nick_name": "Tricount participant",
-                "type": "PERSON"
-              }
+              "auto_add_card_transaction": "NONE"
             }
           },
           {
@@ -162,45 +86,7 @@
                 "card_ids": [],
                 "card_labels": []
               },
-              "auto_add_card_transaction": "NONE",
-              "balance": {
-                "currency": "USD",
-                "value": "24.75"
-              },
-              "status_settlement": "PENDING",
-              "total_amount_spent": {
-                "currency": "USD",
-                "value": "0.00"
-              },
-              "registry_id": 67756078,
-              "registry_title": "City trip",
-              "registry_description": null,
-              "invitor": {
-                "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                "display_name": "Tricount participant",
-                "country": "000",
-                "avatar": {
-                  "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                  "image": [
-                    {
-                      "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                      "height": 640,
-                      "width": 640,
-                      "content_type": "image/png",
-                      "urls": [
-                        {
-                          "type": "ORIGINAL",
-                          "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                        }
-                      ]
-                    }
-                  ],
-                  "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                  "style": "NONE"
-                },
-                "public_nick_name": "Tricount participant",
-                "type": "PERSON"
-              }
+              "auto_add_card_transaction": "NONE"
             }
           },
           {
@@ -225,45 +111,7 @@
                 "card_ids": [],
                 "card_labels": []
               },
-              "auto_add_card_transaction": "NONE",
-              "balance": {
-                "currency": "USD",
-                "value": "-39.25"
-              },
-              "status_settlement": "PENDING",
-              "total_amount_spent": {
-                "currency": "USD",
-                "value": "0.00"
-              },
-              "registry_id": 67756078,
-              "registry_title": "City trip",
-              "registry_description": null,
-              "invitor": {
-                "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                "display_name": "Tricount participant",
-                "country": "000",
-                "avatar": {
-                  "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                  "image": [
-                    {
-                      "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                      "height": 640,
-                      "width": 640,
-                      "content_type": "image/png",
-                      "urls": [
-                        {
-                          "type": "ORIGINAL",
-                          "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                        }
-                      ]
-                    }
-                  ],
-                  "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                  "style": "NONE"
-                },
-                "public_nick_name": "Tricount participant",
-                "type": "PERSON"
-              }
+              "auto_add_card_transaction": "NONE"
             }
           }
         ],
@@ -311,45 +159,7 @@
                     "card_ids": [],
                     "card_labels": []
                   },
-                  "auto_add_card_transaction": "NONE",
-                  "balance": {
-                    "currency": "USD",
-                    "value": "45.75"
-                  },
-                  "status_settlement": "PENDING",
-                  "total_amount_spent": {
-                    "currency": "USD",
-                    "value": "0.00"
-                  },
-                  "registry_id": 67756078,
-                  "registry_title": "City trip",
-                  "registry_description": null,
-                  "invitor": {
-                    "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                    "display_name": "Tricount participant",
-                    "country": "000",
-                    "avatar": {
-                      "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                      "image": [
-                        {
-                          "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                          "height": 640,
-                          "width": 640,
-                          "content_type": "image/png",
-                          "urls": [
-                            {
-                              "type": "ORIGINAL",
-                              "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                            }
-                          ]
-                        }
-                      ],
-                      "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "style": "NONE"
-                    },
-                    "public_nick_name": "Tricount participant",
-                    "type": "PERSON"
-                  }
+                  "auto_add_card_transaction": "NONE"
                 }
               },
               "allocations": [
@@ -468,74 +278,7 @@
               "attachment": [],
               "category": "UNCATEGORIZED",
               "category_custom": null,
-              "date": "2018-10-16 17:46:56.000000",
-              "registry_id": 67756078,
-              "alias": null,
-              "counterparty_alias": null,
-              "membership_created": {
-                "RegistryMembershipNonUser": {
-                  "id": 282769154,
-                  "created": "2024-12-22 21:38:05.908984",
-                  "updated": "2024-12-22 21:38:05.986859",
-                  "uuid": "68c504e3-3ebc-4be3-be6d-ee8f2b794aca",
-                  "alias": {
-                    "display_name": "Alex",
-                    "pointer": {
-                      "type": "UUID",
-                      "value": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "name": "Alex"
-                    }
-                  },
-                  "status": "ACTIVE",
-                  "setting": {
-                    "auto_add_card_transaction": "INACTIVE",
-                    "time_auto_add_card_transaction_end": null,
-                    "time_auto_add_card_transaction_start": null,
-                    "card_ids": [],
-                    "card_labels": []
-                  },
-                  "auto_add_card_transaction": "NONE",
-                  "balance": {
-                    "currency": "USD",
-                    "value": "45.75"
-                  },
-                  "status_settlement": "PENDING",
-                  "total_amount_spent": {
-                    "currency": "USD",
-                    "value": "0.00"
-                  },
-                  "registry_id": 67756078,
-                  "registry_title": "City trip",
-                  "registry_description": null,
-                  "invitor": {
-                    "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                    "display_name": "Tricount participant",
-                    "country": "000",
-                    "avatar": {
-                      "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                      "image": [
-                        {
-                          "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                          "height": 640,
-                          "width": 640,
-                          "content_type": "image/png",
-                          "urls": [
-                            {
-                              "type": "ORIGINAL",
-                              "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                            }
-                          ]
-                        }
-                      ],
-                      "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "style": "NONE"
-                    },
-                    "public_nick_name": "Tricount participant",
-                    "type": "PERSON"
-                  }
-                }
-              },
-              "additional_transaction_information": null
+              "date": "2018-10-16 17:46:56.000000"
             }
           },
           {
@@ -579,45 +322,7 @@
                     "card_ids": [],
                     "card_labels": []
                   },
-                  "auto_add_card_transaction": "NONE",
-                  "balance": {
-                    "currency": "USD",
-                    "value": "-31.25"
-                  },
-                  "status_settlement": "PENDING",
-                  "total_amount_spent": {
-                    "currency": "USD",
-                    "value": "0.00"
-                  },
-                  "registry_id": 67756078,
-                  "registry_title": "City trip",
-                  "registry_description": null,
-                  "invitor": {
-                    "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                    "display_name": "Tricount participant",
-                    "country": "000",
-                    "avatar": {
-                      "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                      "image": [
-                        {
-                          "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                          "height": 640,
-                          "width": 640,
-                          "content_type": "image/png",
-                          "urls": [
-                            {
-                              "type": "ORIGINAL",
-                              "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                            }
-                          ]
-                        }
-                      ],
-                      "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "style": "NONE"
-                    },
-                    "public_nick_name": "Tricount participant",
-                    "type": "PERSON"
-                  }
+                  "auto_add_card_transaction": "NONE"
                 }
               },
               "allocations": [
@@ -737,74 +442,7 @@
               "attachment": [],
               "category": "UNCATEGORIZED",
               "category_custom": null,
-              "date": "2018-10-16 17:45:56.000000",
-              "registry_id": 67756078,
-              "alias": null,
-              "counterparty_alias": null,
-              "membership_created": {
-                "RegistryMembershipNonUser": {
-                  "id": 282769154,
-                  "created": "2024-12-22 21:38:05.908984",
-                  "updated": "2024-12-22 21:38:05.986859",
-                  "uuid": "68c504e3-3ebc-4be3-be6d-ee8f2b794aca",
-                  "alias": {
-                    "display_name": "Alex",
-                    "pointer": {
-                      "type": "UUID",
-                      "value": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "name": "Alex"
-                    }
-                  },
-                  "status": "ACTIVE",
-                  "setting": {
-                    "auto_add_card_transaction": "INACTIVE",
-                    "time_auto_add_card_transaction_end": null,
-                    "time_auto_add_card_transaction_start": null,
-                    "card_ids": [],
-                    "card_labels": []
-                  },
-                  "auto_add_card_transaction": "NONE",
-                  "balance": {
-                    "currency": "USD",
-                    "value": "45.75"
-                  },
-                  "status_settlement": "PENDING",
-                  "total_amount_spent": {
-                    "currency": "USD",
-                    "value": "0.00"
-                  },
-                  "registry_id": 67756078,
-                  "registry_title": "City trip",
-                  "registry_description": null,
-                  "invitor": {
-                    "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                    "display_name": "Tricount participant",
-                    "country": "000",
-                    "avatar": {
-                      "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                      "image": [
-                        {
-                          "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                          "height": 640,
-                          "width": 640,
-                          "content_type": "image/png",
-                          "urls": [
-                            {
-                              "type": "ORIGINAL",
-                              "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                            }
-                          ]
-                        }
-                      ],
-                      "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "style": "NONE"
-                    },
-                    "public_nick_name": "Tricount participant",
-                    "type": "PERSON"
-                  }
-                }
-              },
-              "additional_transaction_information": null
+              "date": "2018-10-16 17:45:56.000000"
             }
           },
           {
@@ -848,45 +486,7 @@
                     "card_ids": [],
                     "card_labels": []
                   },
-                  "auto_add_card_transaction": "NONE",
-                  "balance": {
-                    "currency": "USD",
-                    "value": "24.75"
-                  },
-                  "status_settlement": "PENDING",
-                  "total_amount_spent": {
-                    "currency": "USD",
-                    "value": "0.00"
-                  },
-                  "registry_id": 67756078,
-                  "registry_title": "City trip",
-                  "registry_description": null,
-                  "invitor": {
-                    "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                    "display_name": "Tricount participant",
-                    "country": "000",
-                    "avatar": {
-                      "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                      "image": [
-                        {
-                          "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                          "height": 640,
-                          "width": 640,
-                          "content_type": "image/png",
-                          "urls": [
-                            {
-                              "type": "ORIGINAL",
-                              "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                            }
-                          ]
-                        }
-                      ],
-                      "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "style": "NONE"
-                    },
-                    "public_nick_name": "Tricount participant",
-                    "type": "PERSON"
-                  }
+                  "auto_add_card_transaction": "NONE"
                 }
               },
               "allocations": [
@@ -1006,84 +606,12 @@
               "attachment": [],
               "category": "UNCATEGORIZED",
               "category_custom": null,
-              "date": "2018-10-16 17:44:56.000000",
-              "registry_id": 67756078,
-              "alias": null,
-              "counterparty_alias": null,
-              "membership_created": {
-                "RegistryMembershipNonUser": {
-                  "id": 282769154,
-                  "created": "2024-12-22 21:38:05.908984",
-                  "updated": "2024-12-22 21:38:05.986859",
-                  "uuid": "68c504e3-3ebc-4be3-be6d-ee8f2b794aca",
-                  "alias": {
-                    "display_name": "Alex",
-                    "pointer": {
-                      "type": "UUID",
-                      "value": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "name": "Alex"
-                    }
-                  },
-                  "status": "ACTIVE",
-                  "setting": {
-                    "auto_add_card_transaction": "INACTIVE",
-                    "time_auto_add_card_transaction_end": null,
-                    "time_auto_add_card_transaction_start": null,
-                    "card_ids": [],
-                    "card_labels": []
-                  },
-                  "auto_add_card_transaction": "NONE",
-                  "balance": {
-                    "currency": "USD",
-                    "value": "45.75"
-                  },
-                  "status_settlement": "PENDING",
-                  "total_amount_spent": {
-                    "currency": "USD",
-                    "value": "0.00"
-                  },
-                  "registry_id": 67756078,
-                  "registry_title": "City trip",
-                  "registry_description": null,
-                  "invitor": {
-                    "uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                    "display_name": "Tricount participant",
-                    "country": "000",
-                    "avatar": {
-                      "uuid": "6c533558-ec03-4a5a-b522-809e98899da5",
-                      "image": [
-                        {
-                          "attachment_public_uuid": "2a79c91c-3f00-4ead-99f3-854453bf8706",
-                          "height": 640,
-                          "width": 640,
-                          "content_type": "image/png",
-                          "urls": [
-                            {
-                              "type": "ORIGINAL",
-                              "url": "https://bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com/bunq_file/File/content/e627dab1418debb69a8ab983e7cd99a7b0cb8c289892dde90a8b2f12d5e23140.png"
-                            }
-                          ]
-                        }
-                      ],
-                      "anchor_uuid": "d11e9afa-cd1c-4622-8358-f99e122fd6ac",
-                      "style": "NONE"
-                    },
-                    "public_nick_name": "Tricount participant",
-                    "type": "PERSON"
-                  }
-                }
-              },
-              "additional_transaction_information": null
+              "date": "2018-10-16 17:44:56.000000"
             }
           }
         ],
         "all_registry_gallery_attachment": [],
-        "setting": null,
-        "total_amount_spent": {
-          "currency": "USD",
-          "value": "0.00"
-        },
-        "avatar": null
+        "setting": null
       }
     }
   ],
