@@ -139,7 +139,8 @@ class TricountHandler:
             datetime.strptime(transaction["When"], "%Y-%m-%d %H:%M:%S.%f").strftime("%Y-%m-%d"),
             involved,
             transaction.get("File Names", ""),
-            ", ".join([attach["urls"][0]["url"] for attach in transaction["Attachments"] if "urls" in attach and attach["urls"]])
+            ", ".join([attach["urls"][0]["url"] for attach in transaction["Attachments"] if "urls" in attach and attach["urls"]]),
+            transaction["Category"]
         ]
         
         return row_data
@@ -199,7 +200,7 @@ class TricountHandler:
         sheet = workbook.active
         sheet.title = "Tricount Transactions"
 
-        headers = ["Who Paid", "Total", "Currency", "Description", "When", "Involved", "File Names", "Attachment URLs"]
+        headers = ["Who Paid", "Total", "Currency", "Description", "When", "Involved", "File Names", "Attachment URLs", "Category"]
         sheet.append(headers)
 
 
@@ -220,12 +221,12 @@ class TricountHandler:
         - file_name (str): The name of the CSV file to save the data to (without the .csv extension).
 
         The CSV file will have the following headers:
-        "Who Paid", "Total", "Currency", "Description", "When", "Involved", "File Names", "Attachment URLs"
+        "Who Paid", "Total", "Currency", "Description", "When", "Involved", "File Names", "Attachment URLs", "Category"
 
         Each transaction will be processed by the `prepare_transaction_data` method and written to the file.
         """
         with open(f"{file_name}.csv", "w") as csvfile:
-            headers = ["Who Paid", "Total", "Currency", "Description", "When", "Involved", "File Names", "Attachment URLs"]
+            headers = ["Who Paid", "Total", "Currency", "Description", "When", "Involved", "File Names", "Attachment URLs", "Category"]
             transaction_writer = csv.writer(csvfile, delimiter=";")
             transaction_writer.writerow(headers)
 
